@@ -1,0 +1,2 @@
+# bargraph-project
+Lighthouse project
